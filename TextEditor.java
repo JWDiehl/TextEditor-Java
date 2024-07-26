@@ -159,6 +159,14 @@ class TextEditor extends Frame implements ActionListener {
         TextEditor to = new TextEditor();
     }
 
+    public void newFile() {
+    }
+
+    public void openFile() {
+    }
+
+    public void saveAsFile() {
+    }
 }
 
 class MyWindowsAdapter extends WindowAdapter {
